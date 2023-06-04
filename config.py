@@ -1,1 +1,1 @@
-TOKEN = 'Здесь должен быть токен бота'
+TOKEN = '6133433553:AAHVKvtrjMQ48mr9t7pjoYEmpFy392JDpgE'
